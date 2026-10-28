@@ -1,0 +1,9 @@
+# Obsidian: estado local de cada equipo (evita conflictos entre PCs)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
